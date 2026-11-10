@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "mac": {
+    "datei": "TamirG-1.0.1.dmg",
+    "sha256": "8fe475e88a87a47ccf7ca8f492f213c92746e6a17c06b3d4b34d829662e5bc05"
+  },
+  "windows": {
+    "datei": "TamirG-Setup-1.0.1.exe",
+    "sha256": "42bee90958f19bcef408074250f28cf3b54f0ea8e261f7e9b1cd405ebe805240"
+  }
+}
